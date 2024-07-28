@@ -1,0 +1,12 @@
+product_id,product_name,category,price,stock_quantity
+1,Dog Food,Food,25.99,150
+2,Cat Food,Food,19.99,100
+3,Bird Seed,Food,12.49,80
+4,Fish Flakes,Food,8.99,60
+5,Cat Toy,Toys,5.99,200
+6,Dog Leash,Accessories,15.49,120
+7,Dog Collar,Accessories,9.99,90
+8,Bird Cage,Housing,79.99,20
+9,Aquarium,Housing,149.99,10
+10,Cat Scratching Post,Toys,39.99,30
+11,Fish Tank Filter,Accessories,24.99,50
